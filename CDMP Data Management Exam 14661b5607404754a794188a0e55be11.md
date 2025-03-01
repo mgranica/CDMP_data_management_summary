@@ -1,4 +1,4 @@
-# CDMP_data_management_summary
+# CDMP Data Management Exam
 
 DAMA was founded to address the need for reliable data management practices.
 
